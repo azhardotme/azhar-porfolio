@@ -6,7 +6,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="index.html"><span>Metro</span></a>
+            <a class="brand" href="{{url('/dashboard')}}"><span>Azhar</span></a>
 
             <!-- start: Header Menu -->
             <div class="nav-no-collapse header-nav">
